@@ -5,23 +5,23 @@ This project predicts used car prices based on features like make, model, year, 
 
 ## **Project Structure**
 - **Jupyter Notebook**  
-  *File*: `car_dekho_cleaning_and_modeling.ipynb`  
+  *File*: `CarDheko_DataHandling_ModelBuild.ipynb`  
   *Description*: Contains data cleaning, feature engineering, model training, and evaluation.
 
 - **Streamlit Application**  
-  *File*: `car_dekho_app.py`  
+  *File*: `CarDekho.py`  
   *Description*: Interactive app where users input car details for price predictions.
 
 - **Project Report**  
-  *File*: `project_report.pdf`  
+  *File*: `Proj_Det.pdf`  
   *Description*: Detailed report covering the entire project lifecycle.
 
 - **User Guide**  
-  *File*: `user_guide.pdf`  
+  *File*: `GuideForUsers.pdf`  
   *Description*: Step-by-step guide on using the Streamlit app.
 
 - **Resources**  
-  *File*: `resources.zip`  
+  *File*: `Resource_Files.zip`  
   *Contents*: Includes dataset, joblib files, and other resources.
 
 ## **Getting Started**
@@ -31,7 +31,7 @@ This project predicts used car prices based on features like make, model, year, 
 
 ### Streamlit Application Features
 - **Input Fields**: Input attributes like make, model, year, fuel type, mileage, etc.
-- **Price Prediction**: Click ‘Predict’ to get the car's estimated price.
+- **Price Prediction**: Click ‘Predict Value’ to get the car's estimated price.
 - **User-Friendly Interface**: Accessible to both technical and non-technical users.
 
 ## **Model Training and Evaluation**
@@ -44,14 +44,9 @@ This project predicts used car prices based on features like make, model, year, 
 - **Accuracy**: High predictive accuracy, making it reliable for estimating car prices.
 
 ## **Repository Structure**
-- `car_dekho_cleaning_and_modeling.ipynb`: Data processing and model training notebook.
-- `car_dekho_app.py`: Streamlit app script.
-- `project_report.pdf`: Comprehensive project report.
-- `user_guide.pdf`: User guide for the app.
-- `Car_Price_Prediction.zip`: Dataset, joblib files, and resources.
+- `CarDheko_DataHandling_ModelBuild.ipynb`: Data processing and model training notebook.
+- `CarDekho.py`: Streamlit app script.
+- `Proj_Det.pdf`: Comprehensive project report.
+- `GuideForUsers.pdf`: User guide for the app.
+- `Resource_Files.zip`: Dataset, joblib files, and resources.
 
-## **Acknowledgements**
-Data from CarDekho. Built with open-source libraries, including Scikit-learn and Streamlit.
-
-## **License**
-This project is licensed under the MIT License.
