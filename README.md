@@ -50,3 +50,9 @@ This project predicts used car prices based on features like make, model, year, 
 - `GuideForUsers.pdf`: User guide for the app.
 - `Resource_Files.zip`: Dataset, joblib files, and resources.
 
+- ## **Sample Screen shot**
+
+- ![image](https://github.com/user-attachments/assets/46569439-f6f8-4416-be39-8a4bb9702c7c)
+
+- ![image](https://github.com/user-attachments/assets/09c75dcf-8766-4a03-912d-b9ce0bafa22b)
+
