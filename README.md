@@ -4,7 +4,7 @@
 This project predicts used car prices based on features like make, model, year, fuel type, transmission, and more. Using CarDekho data, the aim is to build a user-friendly tool for both customers and sales reps. The final product is a deployed Streamlit app for instant price predictions.
 
 ## **Project Structure**
-- **Jupyter Notebook**  
+- **Notebook File**  
   *File*: `CarDheko_DataHandling_ModelBuild.ipynb`  
   *Description*: Contains data cleaning, feature engineering, model training, and evaluation.
 
